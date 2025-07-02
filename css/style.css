@@ -42,9 +42,9 @@ th, td {
   color: #00ffff;
 }
 .planet-img {
-  width: 80px;
+  width: 20px;
   height: auto;
-  border-radius: 10px; /* optional: soft corners */
+  border-radius: 10px;
   padding: 5px;
   transition: transform 0.3s ease;
 }
