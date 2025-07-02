@@ -19,26 +19,26 @@ table {
   color: #66D7D1;
 }
 .images th {
-color: #00ffff
+  color: #00ffff;
 }
 .mass th {
-color: #ff77ff
+  color: #ff77ff;
 }
 .gravity th {
-color: #fff700;
+  color: #fff700;
 }
 .orbital th {
-color: #00f9ff;
+  color: #00f9ff;
 }
 .moons th {
-color: #ffa500;
+  color: #ffa500;
 }
 .distance th {
-color: #39ff14;
+  color: #39ff14;
 }
 .rotation th {
-color: #ff6f61;
+  color: #ff6f61;
 }
 .rings th {
-color: #7df9ff;
+  color: #7df9ff;
 }
