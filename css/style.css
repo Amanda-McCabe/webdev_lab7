@@ -40,6 +40,8 @@ th, td {
 }
 .images td {
   color: #00ffff;
+}
+.planet-img {
   width: 80px;
   height: auto;
   border-radius: 10px; /* optional: soft corners */
