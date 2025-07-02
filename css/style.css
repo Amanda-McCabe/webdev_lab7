@@ -5,12 +5,16 @@ body {
   align-items: center;
   height: 100vh;
   margin: 0;
+  background-color: #0d0d0d;
+}
+h1 {
+  color: #d3d3d3;
 }
 table {
   margin-left: auto;
   margin-right: auto;
+  background-color: #403D58;
 }
 .main-header th {
   color: #66D7D1;
-  background-color: #403D58;
 }
