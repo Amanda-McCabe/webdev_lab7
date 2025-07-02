@@ -48,6 +48,10 @@ th, td {
   padding: 5px;
   transition: transform 0.3s ease;
 }
+.planet-img:hover{
+  transform: scale(1.2);
+  cursor: pointer;
+}
 .mass td {
   color: #ff77ff;
 }
